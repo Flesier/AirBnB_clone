@@ -1,0 +1,12 @@
+/*
+* == Footer style ==
+*/
+footer p {
+    background-color: #00FF00;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    line-height: 60px;
+}
